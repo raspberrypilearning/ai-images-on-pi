@@ -1,23 +1,26 @@
-## Step title
-
-Add an introductory sentence. What will learners achieve by the end of this step?
+## Install the model on your Raspberry Pi
 
 --- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+To begin, you need to access the terminal. You can do this by clicking on the terminal icon or by pressing `Ctrl + Alt + T`.
 
-You should see...
- 
-![starter project](images/starter_project.png)
+![Open Terminal](images/terminal.png)
 
 --- /task ---
 
 --- task ---
 
-Step content...
+Into the terminal window type:
+
+``` bash
+curl https://rpf.io/sdinstall | bash
+```
+Press Enter and wait for the model to download and install. This may take a little while. 
 
 --- /task ---
 
---- save ---
+--- task ---
+
+When the install is complete, the terminal prompt will appear again. 
+
+--- /task ---

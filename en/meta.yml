@@ -1,11 +1,12 @@
-title: default-project-template
+title: Run an AI Image Generator on your Raspberry Pi
 hero_image: images/banner.png
-description: default-project-template description
+description: Install and run a Stable DIffusion Ai image generation model on your raspberry pi!
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Install the model on your Raspberry Pi
+  - title: Run the Script
   - title: What next?
