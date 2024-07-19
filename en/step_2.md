@@ -2,9 +2,10 @@
 
 --- task ---
 
-To begin, you need to access the terminal. You can do this by clicking on the terminal icon or by pressing `Ctrl + Alt + T`.
-
+To begin, you need to access the terminal. You can do this by clicking on the terminal icon:
 ![Open Terminal](images/terminal.png)
+ or by pressing `Ctrl + Alt + T`.
+
 
 --- /task ---
 
