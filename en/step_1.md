@@ -7,6 +7,13 @@
 
 ## What you will make
 
+**TODO**: Replace XXXXXXXXXXXX in embed:
+
+<html>
+    <iframe style="max-width: 448px;" width="100%" height="796" src="https://www.youtube.com/embed/XXXXXXXXXXXX?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>    
+</html>
+
 Welcome to the exciting world of AI image generation! 
 
 By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi, to create amazing images of anything you can imagine! 
