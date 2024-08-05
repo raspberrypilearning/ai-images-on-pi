@@ -55,7 +55,6 @@ Wait for the image to generate.
 
 The script will now run with your inputs and generate the image. This may take a few moments depending on the number of steps and your computer’s performance.
 
-
 --- /task ---
 
 --- task ---
