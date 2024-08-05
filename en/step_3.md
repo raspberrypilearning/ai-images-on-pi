@@ -1,6 +1,4 @@
-## Generate an Image with SDXL Turbo
-
-### Using the Script
+## Run the Script
 
 --- task ---
 
@@ -64,7 +62,6 @@ Check the Output
 Once the process is complete, you will find your generated image saved with the specified file name, in the current directory.
 
 ![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop](images/cat.jpg)
-
 
 --- /task ---
 
