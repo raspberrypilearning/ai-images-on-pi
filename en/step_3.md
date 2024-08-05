@@ -51,27 +51,7 @@ Press Enter.
 
 --- task ---
 
-Finally, enter a **seed number**. This makes the image generation process reproducible. The seed number ensures that the same prompt and settings will produce the same image every time, which is useful for consistency. 
-
-```bash
-Enter the seed number for your image: 1426396
-```
---- collapse ---
----
-title: Maximum seed number
----
-
-Add any seed number from 0 up to *around* 2 billion (2,000,000,000) - a higher seed than this will likely result in an error.
-
---- /collapse ---
-
-Press Enter.
-
---- /task ---
-
---- task ---
-
-Wait for the Image to Generate
+Wait for the image to generate.
 
 The script will now run with your inputs and generate the image. This may take a few moments depending on the number of steps and your computer’s performance.
 
@@ -89,4 +69,4 @@ Once the process is complete, you will find your generated image saved with the 
 
 --- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, the file name determines where it will be saved, and the seed ensures reproducibility. Enjoy creating your images!
+By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the file name determines where it will be saved. Enjoy creating your images!
