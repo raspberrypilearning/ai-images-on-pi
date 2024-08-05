@@ -14,7 +14,6 @@ Type the following command into the terminal and press `Enter` to run the script
 
 You will be asked to enter a prompt. This is a description of the image you want to generate. The prompt guides the image generation process by describing the desired scene or object. If you want to know more about prompting an AI image generator, [have a look at the project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}. 
 
-
 ```bash
 Enter the prompt: A cat
 ```
