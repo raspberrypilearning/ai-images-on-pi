@@ -8,6 +8,16 @@
     </iframe>    
 </html>
 
+--- collapse ---
+---
+title: No YouTube? Download the video!
+---
+
+You can download all the resources for this project, including the above video [by clicking here](https://projects.raspberrypi.org/en/projects/ai-images-on-pi-go){:target="_blank"}. 
+
+
+--- /collapse ---
+
 Welcome to the exciting world of AI image generation! 
 
 By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi, to create amazing images of anything you can imagine! 
