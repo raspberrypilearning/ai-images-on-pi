@@ -1,7 +1,3 @@
 ## What can you do now?
 
-**You've completed the project 🎉**
-
-Now [prompt your new image generator](https://projects.raspberrypi.org/en/projects/ai-image-prompt){:target="_blank"} with our awesome project [here](https://projects.raspberrypi.org/en/projects/ai-image-prompt){:target="_blank"}!
-
-If you want to have more fun exploring Machine Learning and AI, then you could try out any of [these projects](http://rpf.io/ai){:target="_blank"}.
+There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
