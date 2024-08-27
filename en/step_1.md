@@ -21,11 +21,11 @@ You can download all the resources for this project, including the above video [
 
 Welcome to the exciting world of AI image generation! 
 
-By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi, to create amazing images of anything you can imagine! 
+By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi. This will let you create amazing images of anything you can imagine! 
 
 ### You will need:
-- A Raspberry Pi 4 or 5 with a micro SD card of **at least** 32Gb storage.
-- Access to an internet connection for the Raspberry Pi.
+- A Raspberry Pi 4 or 5 with a micro SD card with **at least** 32GB storage
+- Access to an internet connection for the Raspberry Pi
 
 
 --- /collapse ---
@@ -57,6 +57,6 @@ It's also important to know that generative AI can sometimes create **content th
 
 **Always look at AI-generated content with a careful and thoughtful mind.**
 
-Enjoy learning and creating with Generative AI!
+Enjoy learning and creating with generative AI!
 
 --- /collapse ---
