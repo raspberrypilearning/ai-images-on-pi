@@ -1,8 +1,8 @@
-## Run the Script
+## Run the script
 
 --- task ---
 
-Type the following command into the terminal and press `Enter` to run the script:
+Type the following command into the terminal and press <kbd>Enter</kbd> to run the script:
 
 ```bash
 ./run_sd.sh
@@ -18,19 +18,19 @@ You will be asked to enter a prompt. This is a description of the image you want
 Enter the prompt: A cat
 ```
 
-Press Enter.
+Press <kbd>Enter</kbd>.
 
 --- /task ---
 
 --- task ---
 
-Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images, as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4Gb RAM.
+Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
 
 ```bash
 Enter the number of steps: 5
 ```
 
-Press Enter.
+Press <kbd>Enter</kbd>.
 
 --- /task ---
 
@@ -42,26 +42,28 @@ Enter the name of the image file. This is the name your generated image will be 
 Enter the output image file name: cat.png
 ```
 
-Press Enter.
+Press <kbd>Enter</kbd>.
 
 --- /task ---
 
 --- task ---
 
-Wait for the image to generate.
+Wait for the image to be generated.
 
-The script will now run with your inputs and generate the image. This may take a few moments depending on the number of steps and your computer’s performance.
+The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
 
 --- /task ---
 
 --- task ---
 
-Check the Output
+Check the output.
 
-Once the process is complete, you will find your generated image saved with the specified file name, in the current directory.
+Once the process is complete, your generated image will be saved in the current directory with the specified file name.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop](images/cat.jpg)
+![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
 
 --- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the file name determines where it will be saved. Enjoy creating your images!
+By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved. 
+
+Enjoy creating your images!
