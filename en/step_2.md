@@ -14,7 +14,7 @@ To begin, you need to access the terminal. You can do this by clicking on the te
 
 ![Open Terminal](images/terminal.png)
 
-or by pressing `Ctrl + Alt + T`.
+or by pressing <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>.
 
 --- /task ---
 
