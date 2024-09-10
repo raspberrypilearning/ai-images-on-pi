@@ -2,4 +2,4 @@
 
 There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
 
-## Hey look, here are some edits.
+## Hey look, there are no longer any edits.
