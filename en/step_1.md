@@ -4,18 +4,14 @@ This learning resource is not recommended for learners below the age of 13. We e
 
 ## What you will make
 
-<html>
-    <iframe style="max-width: 448px;" width="100%" height="796" src="https://www.youtube.com/embed/MWqr3k83NsQ?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>    
-</html>
-
+![The image shows a close-up of a fluffy orange and white kitten with large, expressive eyes and a pink nose. The kitten is resting on a wooden surface with its paws tucked underneath, wearing a pink bow around its neck. Behind the kitten, there are sprigs of lavender in a rustic, burlap-wrapped bundle, adding a soft, natural background to the scene. The lighting is warm, enhancing the kitten's soft fur and creating a cozy, serene atmosphere.](images/cat.jpg)
 
 --- collapse ---
 ---
 title: No YouTube? Download the video!
 ---
 
-You can download all the resources for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}. 
+You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}. 
 
 
 --- /collapse ---
