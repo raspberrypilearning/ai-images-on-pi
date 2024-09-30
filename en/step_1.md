@@ -8,7 +8,7 @@ This learning resource is not recommended for learners below the age of 13. We e
 
 --- collapse ---
 ---
-title: No YouTube? Download the video!
+title: No YouTube? Download the videos!
 ---
 
 You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}. 
