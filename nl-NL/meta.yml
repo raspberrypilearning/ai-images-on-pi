@@ -7,7 +7,7 @@ copyedit: false
 last_tested: "2022-05-19"
 steps:
   - 
-    title: You will make
+    title: Wat ga je maken
   - 
     title: Install the model on your Raspberry Pi
     completion:
@@ -17,6 +17,6 @@ steps:
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Wat kun je nu doen?
     completion:
       - external
