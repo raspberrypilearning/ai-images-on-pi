@@ -1,4 +1,4 @@
-## Install the model on your Raspberry Pi
+## Installeer het model op jouw Raspberry Pi
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -9,28 +9,28 @@
 
 \--- task ---
 
-To begin, you need to access the terminal. You can do this by clicking on the terminal icon:
+Om te beginnen moet je de terminal openen. Je kunt dit doen door op het terminalpictogram te klikken:
 
-![Open Terminal](images/terminal.png)
+![Terminal openen](images/terminal.png)
 
-or by pressing <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>.
+of door op <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>te drukken.
 
 \--- /task ---
 
 \--- task ---
 
-Type into the terminal window:
+Typ in het terminalvenster:
 
 ```bash
 wget -qO- rpf.io/install-sd | bash
 ```
 
-Press <kbd>Enter</kbd> and wait for the model to download and install. This may take a little while.
+Druk op <kbd>, Enter</kbd> in en wacht tot het model is gedownload en geïnstalleerd. Dit kan even duren.
 
 \--- /task ---
 
 \--- task ---
 
-When the install is complete, the terminal prompt will appear again.
+Zodra de installatie is voltooid, verschijnt de terminalprompt opnieuw.
 
 \--- /task ---
