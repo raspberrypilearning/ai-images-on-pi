@@ -2,7 +2,7 @@ title: Voer een AI-imagegenerator uit op jouw Raspberry Pi
 hero_image: images/banner.png
 description: Installeer en voer een Stable Diffusion AI-imagegeneratiemodel uit op jouw Raspberry Pi-computer!
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
@@ -16,7 +16,6 @@ steps:
     title: Voer het script uit
     completion:
       - internal
+      - external
   - 
     title: Wat kun je nu doen?
-    completion:
-      - external
