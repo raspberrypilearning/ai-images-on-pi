@@ -2,7 +2,7 @@ title: Exécuter un générateur d'images IA sur ton Raspberry Pi
 hero_image: images/banner.png
 description: Installe et exécute un modèle de génération d’images IA Stable Diffusion sur ton ordinateur Raspberry Pi !
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
@@ -16,7 +16,6 @@ steps:
     title: Exécuter le script
     completion:
       - internal
+      - external
   - 
     title: Que peux-tu faire maintenant ?
-    completion:
-      - external
