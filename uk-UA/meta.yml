@@ -16,6 +16,7 @@ steps:
     title: Run the script
     completion:
       - internal
-      - external
   - 
     title: Що ти тепер вмієш?
+    completion:
+      - external
