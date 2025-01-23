@@ -16,6 +16,7 @@ steps:
     title: Run the script
     completion:
       - internal
-      - external
   - 
     title: What can you do now?
+    completion:
+      - external
