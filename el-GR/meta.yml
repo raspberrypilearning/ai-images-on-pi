@@ -16,6 +16,7 @@ steps:
     title: Run the script
     completion:
       - internal
-      - external
   - 
     title: Αναστοχασμός
+    completion:
+      - external
