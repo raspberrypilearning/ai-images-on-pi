@@ -12,7 +12,7 @@ Tape la commande suivante dans le terminal et appuie sur <kbd>Entrée</kbd> pour
 
 --- task ---
 
-Il te sera demandé de saisir un prompt. C'est une description de l'image que tu souhaites générer. Le prompt guide le processus de génération d'images en décrivant la scène ou l'objet souhaité. Si tu souhaites en savoir plus sur le prompt d'un générateur d'images IA, [consulte le projet ici].(https://projects.raspberrypi.org/fr-FR/projects/ai-image-prompt/){:target="_blank"}.
+Il te sera demandé de saisir un prompt. C'est une description de l'image que tu souhaites générer. Le prompt guide le processus de génération d'images en décrivant la scène ou l'objet souhaité. Si tu souhaites en savoir plus sur le prompt d'un générateur d'images IA, [consulte le projet ici](https://projects.raspberrypi.org/fr-FR/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
 Enter the prompt: Un chat
