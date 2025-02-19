@@ -25,7 +25,7 @@ Typ in het terminalvenster:
 wget -qO- rpf.io/install-sd | bash
 ```
 
-Druk op <kbd>, Enter</kbd> in en wacht tot het model is gedownload en geïnstalleerd. Dit kan even duren.
+Druk op <kbd>Enter</kbd> in en wacht tot het model is gedownload en geïnstalleerd. Dit kan even duren.
 
 --- /task ---
 
