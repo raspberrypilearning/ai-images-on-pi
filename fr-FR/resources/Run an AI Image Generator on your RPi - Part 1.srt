@@ -1,0 +1,16 @@
+1
+00:00:02,720 --> 00:00:05,355
+Installe avec une seule commande.
+
+2
+00:00:06,000 --> 00:00:09,709
+[Musique]
+
+3
+00:00:19,462 --> 00:00:22,129
+Exécute la diffusion stable avec cette commande.
+
+4
+00:00:22,635 --> 00:00:24,366
+Tu es maintenant prêt à lancer le prompt.
+
