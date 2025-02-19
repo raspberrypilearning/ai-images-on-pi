@@ -1,0 +1,19 @@
+---
+title: Встанови генератор зображень ШІ на Raspberry Pi
+hero_image: images/banner.png
+description: Встанови й запусти модель ШІ для генерування зображень Stable Diffusion на своєму компʼютері Raspberry Pi!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Що ти зробиш
+  - title: Встанови модель на своєму компʼютері Raspberry Pi
+    completion:
+      - engaged
+  - title: Запусти скрипт
+    completion:
+      - internal
+  - title: Що ти тепер вмієш?
+    completion:
+      - external
