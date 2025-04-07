@@ -1,46 +1,46 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Цей навчальний ресурс не рекомендується для учнів та учениць віком до 13 років. Ми заохочуємо користувачів відповідально ставитися до цього матеріалу та за потреби звертатися за порадою до дорослих, яким вони довіряють.
 </p>
 
 ## Що ти зробиш
 
-![The image shows a close-up of a fluffy orange and white kitten with large, expressive eyes and a pink nose. The kitten is resting on a wooden surface with its paws tucked underneath, wearing a pink bow around its neck. Behind the kitten, there are sprigs of lavender in a rustic, burlap-wrapped bundle, adding a soft, natural background to the scene. The lighting is warm, enhancing the kitten's soft fur and creating a cozy, serene atmosphere.](images/cat.jpg)
+![На зображенні великим планом показано пухнасте біло-руде кошеня з великими виразними очима та рожевим носиком. Кошеня лежить на дерев’яній поверхні, підібгавши лапки, а на шиї у нього рожевий бант. Позаду кошеняти лежить букет лаванди в мішковині, що створює мʼяке природне тло. Освітлення тепле, підкреслює м’яку шерсть кошеняти і створює затишну спокійну атмосферу.](images/cat.jpg)
 
 ## --- collapse ---
 
 ## title: Немає доступу до YouTube? Завантаж відео!
 
-You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
+Ти можеш завантажити всі ресурси для цього проєкту [за посиланням](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
 
 \--- /collapse ---
 
-Welcome to the exciting world of AI image generation!
+Ласкаво просимо до захопливого світу зображень, згенерованих штучним інтелектом!
 
-By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi. This will let you create amazing images of anything you can imagine!
+Виконуючи ці кроки, ти встановиш модель генерування зображень Stable Diffusion XL локально на компʼютері Raspberry Pi. Це дозволить тобі створювати дивовижні зображення всього, що тільки можна собі уявити!
 
 ## --- collapse ---
 
-## title: You will need
+## title: Що тобі знадобиться
 
-- A Raspberry Pi 4 or 5 with a micro SD card with **at least** 32GB storage
-- Access to an internet connection for the Raspberry Pi
+- Компʼютер Raspberry Pi 4 або 5 з картою micro SD з **принаймні** 32 ГБ памʼяті.
+- Доступ до інтернету для Raspberry Pi.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## title: Чому ми рекомендуємо використовувати цей проєкт старшим учням й ученицям?
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+Важливо розуміти, як захистити свою особисту інформацію. Raspberry Pi Foundation дуже уважно ставиться до захисту твоїх даних і конфіденційності, тому ми рекомендуємо цей проєкт лише тим, хто досяг 13 років.
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+Можливо, ти знаєш, що багато онлайн-сервісів вимагають від користувачів мати принаймні 13 років. Це тому, що вони обробляють і зберігають надані тобою дані, які можуть включати особисту інформацію. Хоча ці служби дотримуються суворих правил захисту твоїх даних, надсилання інформації через інтернет іноді може бути небезпечним.
 
-When you use generative AI tools on a Raspberry Pi, all of the work happens right on your device. **Your personal data stays on your computer and never leaves it.** This keeps your information safe and secure and lets you explore and learn about AI safely.
+Коли ти використовуєш інструменти генеративного ШІ на Raspberry Pi, уся робота виконується прямо на твоєму пристрої. **Твої особисті дані залишаються на твоєму комп’ютері й ніколи не залишають його.** Це зберігає твою інформацію в безпеці, а також дозволяє тобі досліджувати й дізнаватися нове про безпеку в сфері штучного інтелекту.
 
-But it's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+Також важливо знати, що генеративний штучний інтелект іноді може створювати **контент, який не є правдивим, обʼєктивним або прийнятним**. Ці моделі штучного інтелекту іноді можуть «галюцинувати» та **придумувати інформацію, яка звучить правдивою, але не є такою**. Отже, важливо **уважно переглядати дані, отримані від ШІ, та перевіряти їх**. Коли ти працюєш з генеративним штучним інтелектом, обов’язково перевіряй інформацію у надійних джерелах, якщо маєш у ній сумніви.
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**Завжди уважно та вдумливо сприймай контент, створений штучним інтелектом.** Якщо тобі потрібна допомога, попроси про неї батьків, опікунів або вчителів.
 
-Enjoy learning and creating with generative AI!
+А тепер — до навчання і творчості з генеративним штучним інтелектом!
 
 \--- /collapse ---
