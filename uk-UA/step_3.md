@@ -1,8 +1,8 @@
-## Run the script
+## Запусти скрипт
 
 \--- task ---
 
-Type the following command into the terminal and press <kbd>Enter</kbd> to run the script:
+Введи в термінал наступну команду й натисни <kbd>Enter</kbd>, щоб запустити скрипт:
 
 ```bash
 ./run_sd.sh
@@ -12,58 +12,58 @@ Type the following command into the terminal and press <kbd>Enter</kbd> to run t
 
 \--- task ---
 
-You will be asked to enter a prompt. This is a description of the image you want to generate. The prompt guides the image generation process by describing the desired scene or object. If you want to know more about prompting an AI image generator, [have a look at the project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
+Термінал попросить тебе ввести запит (англійською мовою). Це опис зображення, яке ти хочеш згенерувати. Запит визначає процес генерування зображення, описуючи потрібну сцену чи предмет. Якщо ти хочеш дізнатися більше про генерування зображень за допомогою ШІ, [переглянь цей проєкт](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
 Enter the prompt: A cat
 ```
 
-Press <kbd>Enter</kbd>.
+Натисни <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
+Далі введи кількість кроків. Від цього залежить якість зображення. Чим більше кроків, тим зазвичай вища якість зображень, оскільки модель має більше можливостей вдосконалити результат. На Raspberry Pi 5 із 4 ГБ оперативної пам’яті один крок виконується приблизно одну хвилину.
 
 ```bash
 Enter the number of steps: 5
 ```
 
-Press <kbd>Enter</kbd>.
+Натисни <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Enter the name of the image file. This is the name your generated image will be saved as.
+Введи назву файла зображення. Під цим іменем збережеться згенероване зображення.
 
 ```bash
 Enter the output image file name: cat.png
 ```
 
-Press <kbd>Enter</kbd>.
+Натисни <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Wait for the image to be generated.
+Дочекайся, доки зображення згенерується.
 
-The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
+Скрипт працює на основі введених тобою даних, щоб створити зображення. Це може зайняти кілька хвилин залежно від кількості кроків і потужності комп’ютера.
 
 \--- /task ---
 
 \--- task ---
 
-Check the output.
+Перевір результат.
 
-Once the process is complete, your generated image will be saved in the current directory with the specified file name.
+Після завершення процесу згенероване зображення збережеться в поточній папці зі вказаною назвою файлу.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
+![Біло-руде кошеня з великими виразними очима та рожевим носиком лежить на дерев’яній поверхні. На шиї у кошеняти рожевий бантик. На задньому плані лежать гілочки лаванди та обгорнутий мішковиною пучок квітів лаванди на ніжно-рожевому тлі.](images/cat.jpg)
 
 \--- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved.
+З цими вказівками ти легко зможеш генерувати зображення за допомогою скрипту. Запит визначає, що буде зображено на картинці, кількість кроків впливає на її якість, а назва вказує, під яким іменем буде збережено файл.
 
-Enjoy creating your images!
+А тепер створюй свої зображення!
