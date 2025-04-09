@@ -17,6 +17,6 @@ steps:
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: '¿Y ahora?'
     completion:
       - external
