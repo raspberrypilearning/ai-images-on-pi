@@ -1,6 +1,6 @@
-title: Run an AI image generator on your Raspberry Pi
+title: Εκτέλεσε μια γεννήτρια εικόνας AI στο δικό σου Raspberry Pi
 hero_image: images/banner.png
-description: Install and run a Stable Diffusion AI image generation model on your Raspberry Pi computer!
+description: Εγκατάστησε και εκτέλεσε ένα μοντέλο δημιουργίας εικόνας Stable Diffusion AI στον υπολογιστή σου Raspberry Pi!
 version: 4
 listed: true
 copyedit: false
@@ -9,14 +9,14 @@ steps:
   - 
     title: Τι θα φτιάξεις
   - 
-    title: Install the model on your Raspberry Pi
+    title: Εγκατάστησε το μοντέλο στο Raspberry Pi
     completion:
       - engaged
   - 
-    title: Run the script
+    title: Εκτέλεσε το script
     completion:
       - internal
   - 
-    title: Αναστοχασμός
+    title: Και τώρα;
     completion:
       - external
