@@ -1,8 +1,8 @@
-## Run the script
+## Esegui lo script
 
 \--- task ---
 
-Type the following command into the terminal and press <kbd>Enter</kbd> to run the script:
+Digita il seguente comando nel terminale e premi <kbd>Invio</kbd> per eseguire lo script:
 
 ```bash
 ./run_sd.sh
@@ -12,58 +12,58 @@ Type the following command into the terminal and press <kbd>Enter</kbd> to run t
 
 \--- task ---
 
-You will be asked to enter a prompt. This is a description of the image you want to generate. The prompt guides the image generation process by describing the desired scene or object. If you want to know more about prompting an AI image generator, [have a look at the project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
+Ti verrà chiesto di inserire un prompt. Si tratta di una descrizione dell’immagine che desideri generare. Il prompt guida il processo di generazione dell’immagine descrivendo la scena o l’oggetto desiderato. Se vuoi saperne di più su come scrivere un buon prompt per un generatore di immagini con l'intelligenza artificiale, [dai un’occhiata al progetto qui]{:target="_blank"}.
 
 ```bash
-Enter the prompt: A cat
+Inserisci il prompt: Un gatto
 ```
 
-Press <kbd>Enter</kbd>.
+Premi <kbd>Invio</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
+Quindi, inserisci il numero di passaggi. Questo parametro influisce sulla qualità dell’immagine. In generale, un numero maggiore di passaggi produce immagini di qualità superiore, perché il modello ha più opportunità per perfezionare il risultato. Su un Raspberry Pi 5 con 4GB di RAM, ogni passaggio richiede circa 1 minuto.
 
 ```bash
-Enter the number of steps: 5
+Inserisci il numero di passaggi: 5
 ```
 
-Press <kbd>Enter</kbd>.
+Premi <kbd>Invio</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Enter the name of the image file. This is the name your generated image will be saved as.
+Inserisci il nome del file immagine. Questo è il nome con cui verrà salvata l'immagine generata.
 
 ```bash
-Enter the output image file name: cat.png
+Inserisci il nome con cui salvare l'immagine generata: gatto.png
 ```
 
-Press <kbd>Enter</kbd>.
+Premi <kbd>Invio</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Wait for the image to be generated.
+Attendi che l'immagine venga generata.
 
-The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
+Lo script verrà ora eseguito utilizzando i tuoi parametri per generare l’immagine. Questo processo può richiedere alcuni minuti, a seconda del numero di passaggi e delle prestazioni del tuo computer.
 
 \--- /task ---
 
 \--- task ---
 
-Check the output.
+Controlla l'output.
 
-Once the process is complete, your generated image will be saved in the current directory with the specified file name.
+Una volta completato il processo, l’immagine generata verrà salvata nella corrente cartella con il nome file specificato.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
+![Un gattino arancione e bianco con grandi occhi espressivi e un nasino rosa sdraiato su una superficie di legno accanto a dei rametti di lavanda. Il gattino ha un fiocco rosa intorno al collo. Sullo sfondo ci sono rametti di lavanda e un mazzo di fiori di lavanda avvolto in tela grezza, su uno sfondo rosa tenue.](images/cat.jpg)
 
 \--- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved.
+Seguendo questi passaggi, puoi facilmente generare immagini utilizzando lo script. Il prompt definisce il contenuto dell’immagine, il numero di passi ne influenza la qualità e il nome stabilisce come verrà chiamato il file una volta salvato.
 
-Enjoy creating your images!
+Divertiti a creare le tue immagini!
