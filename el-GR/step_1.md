@@ -1,46 +1,46 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Αυτή η πηγή μάθησης δεν συνιστάται για μαθητές/ριες ηλικίας κάτω των 13 ετών. Ενθαρρύνουμε τους χρήστες να ασχοληθούν με αυτό το υλικό με υπευθυνότητα και να αναζητήσουν καθοδήγηση από έναν έμπιστο ενήλικα όταν είναι απαραίτητο.
 </p>
 
-## Εισαγωγή
+## Τι θα κάνεις
 
-![The image shows a close-up of a fluffy orange and white kitten with large, expressive eyes and a pink nose. The kitten is resting on a wooden surface with its paws tucked underneath, wearing a pink bow around its neck. Behind the kitten, there are sprigs of lavender in a rustic, burlap-wrapped bundle, adding a soft, natural background to the scene. The lighting is warm, enhancing the kitten's soft fur and creating a cozy, serene atmosphere.](images/cat.jpg)
+![Η εικόνα δείχνει ένα κοντινό πλάνο ενός χνουδωτού πορτοκαλί και λευκού γατάκι με μεγάλα, εκφραστικά μάτια και ροζ μύτη. Το γατάκι στηρίζεται σε μια ξύλινη επιφάνεια με τα πόδια του κρυμμένα από κάτω, φορώντας ένα ροζ φιόγκο στο λαιμό του. Πίσω από το γατάκι, υπάρχει ένα χωριάτικο μάτσο από κλωνάρια λεβάντας τυλιγμένα σε λινάτσα, που συνθέτει ένα απαλό, φυσικό φόντο στη σκηνή. Ο φωτισμός είναι ζεστός, ενισχύει την απαλή γούνα του γατιού και δημιουργεί μια ζεστή, γαλήνια ατμόσφαιρα.](images/cat.jpg)
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Υπάρχει στο YouTube; Κάνε λήψη των βίντεο!
 
-You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
+Μπορείς να κατεβάσεις όλους τους πόρους για αυτό το έργο [κάνοντας κλικ εδώ](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
 
 \--- /collapse ---
 
-Welcome to the exciting world of AI image generation!
+Καλώς ήρθες στον συναρπαστικό κόσμο της δημιουργίας εικόνων με ΤΝ!
 
-By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi. This will let you create amazing images of anything you can imagine!
+Ακολουθώντας αυτά τα βήματα, θα εγκαταστήσεις ένα μοντέλο δημιουργίας εικόνας Stable Diffusion XL τοπικά στο Raspberry Pi σου. Αυτό θα σου επιτρέψει να δημιουργήσεις εκπληκτικές εικόνες από οτιδήποτε μπορείς να φανταστείς!
 
 ## --- collapse ---
 
-## title: You will need
+## title: Θα χρειαστείς
 
-- A Raspberry Pi 4 or 5 with a micro SD card with **at least** 32GB storage
-- Access to an internet connection for the Raspberry Pi
+- Ένα Raspberry Pi 4 ή 5 με κάρτα micro SD με **τουλάχιστον** 32 GB αποθηκευτικού χώρου
+- Πρόσβαση σε σύνδεση στο διαδίκτυο για το Raspberry Pi
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## title: Γιατί συνιστούμε μεγαλύτεροι μαθητές/ριες να χρησιμοποιούν αυτό το έργο;
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+Είναι σημαντικό να κατανοήσεις με ποιό τρόπο μπορείς να διατηρήσεις τα προσωπικά σου στοιχεία ασφαλή. Το Raspberry Pi Foundation είναι πολύ προσεκτικό όσον αφορά την προστασία των δεδομένων σου και του απορρήτου σου, γι' αυτό προτείνουμε αυτό το έργο μόνο εάν είσαι πάνω από 13 ετών.
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+Ίσως έχεις παρατηρήσει ότι πολλές διαδικτυακές υπηρεσίες ζητούν από τους χρήστες να είναι τουλάχιστον 13 ετών. Αυτό συμβαίνει επειδή διαχειρίζονται και αποθηκεύουν τα δεδομένα που παρέχεις, τα οποία μπορεί να περιλαμβάνουν προσωπικά στοιχεία. Αν και αυτές οι υπηρεσίες ακολουθούν αυστηρούς κανόνες για την προστασία των δεδομένων σου, η αποστολή πληροφοριών μέσω Διαδικτύου μπορεί μερικές φορές να είναι λιγότερο ασφαλής.
 
-When you use generative AI tools on a Raspberry Pi, all of the work happens right on your device. **Your personal data stays on your computer and never leaves it.** This keeps your information safe and secure and lets you explore and learn about AI safely.
+Όταν χρησιμοποιείς εργαλεία παραγωγικής ΤΝ σε ένα Raspberry Pi, όλη η εργασία γίνεται απευθείας στη συσκευή σου. **Τα προσωπικά σου δεδομένα παραμένουν στον υπολογιστή σου και δεν βγαίνουν εκτός υπολογιστή ποτέ.** Αυτό διατηρεί τις πληροφορίες σου ασφαλείς και σου επιτρέπει να διερευνήσεις και να μάθεις για την ασφάλεια στην TN.
 
-But it's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+Αλλά είναι επίσης σημαντικό να γνωρίζεις ότι η παραγωγική ΤΝ μπορεί μερικές φορές να δημιουργήσει **περιεχόμενο που δεν είναι ακριβές, δίκαιο ή κατάλληλο**. Αυτά τα μοντέλα ΤΝ μερικές φορές μπορεί να "έχουν παραισθήσεις" και **να παράγουν πληροφορίες που μοιάζουν αληθινές αλλά δεν είναι**. Επομένως, είναι σημαντικό να **σκεφτείς προσεκτικά τι αποτέλεσμα παράγει η εφαρμογή ΤΝ και να την ελέγξεις ξανά**. Καθώς εργάζεσαι με την παραγωγική ΤΝ, φρόντισε να ελέγξεις τις πληροφορίες και να ρωτήσεις αξιόπιστες πηγές εάν δεν είσαι σίγουρος/η.
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**Να εξετάζεις πάντα το περιεχόμενο που δημιουργείται από την παραγωγική ΤΝ προσεκτικά και με σκεπτικισμό.** Εάν χρειάζεσαι βοήθεια, ζήτησε από έναν γονέα, κηδεμόνα ή δάσκαλο να σε καθοδηγήσει.
 
-Enjoy learning and creating with generative AI!
+Απόλαυσε τη μάθηση και τη δημιουργία με παραγωγική ΤΝ!
 
 \--- /collapse ---
