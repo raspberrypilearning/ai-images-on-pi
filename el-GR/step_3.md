@@ -1,8 +1,8 @@
-## Run the script
+## Εκτέλεσε το script
 
 \--- task ---
 
-Type the following command into the terminal and press <kbd>Enter</kbd> to run the script:
+Πληκτρολόγησε την ακόλουθη εντολή στο τερματικό και πάτα <kbd>Enter</kbd> για να εκτελέσειςscriptscript το script:
 
 ```bash
 ./run_sd.sh
@@ -12,58 +12,58 @@ Type the following command into the terminal and press <kbd>Enter</kbd> to run t
 
 \--- task ---
 
-You will be asked to enter a prompt. This is a description of the image you want to generate. The prompt guides the image generation process by describing the desired scene or object. If you want to know more about prompting an AI image generator, [have a look at the project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
+Θα σου ζητηθεί να εισαγάγεις μια προτροπή. Αυτή είναι μια περιγραφή της εικόνας που θέλεις να δημιουργήσεις. Η προτροπή καθοδηγεί τη διαδικασία δημιουργίας εικόνας περιγράφοντας την επιθυμητή σκηνή ή αντικείμενο. Εάν θέλεις να μάθεις περισσότερα σχετικά με την υποβολή προτροπής για δημιουργία εικόνων AI, [ρίξε μια ματιά στο έργο εδώ](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
-Enter the prompt: A cat
+Εισαγωγή προτροπής: Μια γάτα
 ```
 
-Press <kbd>Enter</kbd>.
+Πάτα <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
+Στη συνέχεια, δώσε τον αριθμό των βημάτων. Αυτό επηρεάζει την ποιότητα της εικόνας. Περισσότερα βήματα γενικά οδηγούν σε εικόνες υψηλότερης ποιότητας, καθώς το μοντέλο έχει περισσότερες ευκαιρίες να βελτιώσει το αποτέλεσμα στην έξοδο. Χρειάζεται περίπου 1 λεπτό ανά βήμα σε ένα Raspberry Pi 5 με 4 GB RAM.
 
 ```bash
-Enter the number of steps: 5
+Δώσε τον αριθμό των βημάτων: 5
 ```
 
-Press <kbd>Enter</kbd>.
+Πάτα <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Enter the name of the image file. This is the name your generated image will be saved as.
+Πληκτρολόγησε το όνομα του αρχείου εικόνας. Αυτό είναι το όνομα με το οποίο θα αποθηκευτεί η εικόνα που δημιούργησες.
 
 ```bash
-Enter the output image file name: cat.png
+Δώσε το όνομα αρχείου εικόνας εξόδου: cat.png
 ```
 
-Press <kbd>Enter</kbd>.
+Πάτα <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Wait for the image to be generated.
+Περίμενε να δημιουργηθεί η εικόνα.
 
-The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
+Το script θα εκτελεστεί τώρα με τις δικές σου παραμέτρους εισόδου για τη δημιουργία της εικόνας. Αυτό μπορεί να διαρκέσει μερικά λεπτά, ανάλογα με τον αριθμό των βημάτων και την απόδοση του υπολογιστή σου.
 
 \--- /task ---
 
 \--- task ---
 
-Check the output.
+Έλεγξε την έξοδο.
 
-Once the process is complete, your generated image will be saved in the current directory with the specified file name.
+Μόλις ολοκληρωθεί η διαδικασία, η εικόνα που δημιούργησες θα αποθηκευτεί στον τρέχοντα κατάλογο με το όνομα αρχείου που έδωσες.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
+![Ένα πορτοκαλί και λευκό γατάκι με μεγάλα, εκφραστικά μάτια και ροζ μύτη κάθεται πάνω σε μια ξύλινη επιφάνεια. Το γατάκι έχει ένα ροζ φιόγκο στο λαιμό του. Στο βάθος, υπάρχουν κλωνάρια λεβάντας και ένα μάτσο λουλούδια λεβάντας τυλιγμένο με λινάτσα, σε φόντο απαλό ροζ.](images/cat.jpg)
 
 \--- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved.
+Ακολουθώντας αυτά τα βήματα, μπορείς εύκολα να δημιουργήσεις εικόνες χρησιμοποιώντας το script. Η προτροπή καθορίζει τι θα απεικονίζει η εικόνα, ο αριθμός των βημάτων επηρεάζει την ποιότητά της και το όνομα καθορίζει πώς θα ονομάζεται το αρχείο όταν αποθηκευτεί.
 
-Enjoy creating your images!
+Απόλαυσε τη δημιουργία των εικόνων σου!
