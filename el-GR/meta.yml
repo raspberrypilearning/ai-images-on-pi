@@ -1,0 +1,19 @@
+---
+title: Τρέξε μια γεννήτρια εικόνας AI στο δικό σου Raspberry Pi
+hero_image: images/banner.png
+description: Εγκατάστησε και τρέξε ένα μοντέλο δημιουργίας εικόνας Stable Diffusion AI στον υπολογιστή σου Raspberry Pi!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Τι θα φτιάξεις
+  - title: Εγκατάστησε το μοντέλο στο Raspberry Pi
+    completion:
+      - engaged
+  - title: Εκτέλεσε το script
+    completion:
+      - internal
+  - title: Τι μπορείς να κάνεις τώρα;
+    completion:
+      - external
