@@ -1,6 +1,6 @@
-title: Εκτέλεσε μια γεννήτρια εικόνας AI στο δικό σου Raspberry Pi
+title: Τρέξε μια γεννήτρια εικόνας AI στο δικό σου Raspberry Pi
 hero_image: images/banner.png
-description: Εγκατάστησε και εκτέλεσε ένα μοντέλο δημιουργίας εικόνας Stable Diffusion AI στον υπολογιστή σου Raspberry Pi!
+description: Εγκατάστησε και τρέξε ένα μοντέλο δημιουργίας εικόνας Stable Diffusion AI στον υπολογιστή σου Raspberry Pi!
 version: 4
 listed: true
 copyedit: false
@@ -17,6 +17,6 @@ steps:
     completion:
       - internal
   - 
-    title: Και τώρα;
+    title: Τι μπορείς να κάνεις τώρα;
     completion:
       - external
