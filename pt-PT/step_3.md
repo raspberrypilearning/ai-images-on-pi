@@ -24,10 +24,10 @@ Pressiona <kbd>Enter</kbd>.
 
 \--- task ---
 
-Em seguida, introduz o número de passos. Isto afeta a qualidade da imagem. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
+Em seguida, introduz o número de passos. Isto afeta a qualidade da imagem. Mais passos, geralmente, resulta numa qualidade maior nas imagens, uma vez que o modelo tem mais oportunidades de refinar o resultado. Demora cerca de 1 minuto por passo no teu Raspberry Pi 5 com 4GB de RAM.
 
 ```bash
-Enter the number of steps: 5
+Introduz o número de passos: 5
 ```
 
 Pressiona <kbd>Enter</kbd>.
@@ -36,10 +36,10 @@ Pressiona <kbd>Enter</kbd>.
 
 \--- task ---
 
-Enter the name of the image file. This is the name your generated image will be saved as.
+Introduz o nome do ficheiro de imagem. Este é o nome que a imagem gerada terá quando for guardada.
 
 ```bash
-Enter the output image file name: cat.png
+Introduz o nome do ficheiro de imagem de saída: gato.png
 ```
 
 Pressiona <kbd>Enter</kbd>.
@@ -48,22 +48,22 @@ Pressiona <kbd>Enter</kbd>.
 
 \--- task ---
 
-Wait for the image to be generated.
+Espera que a imagem seja gerada.
 
-The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
+O script vai agora executar com os teus inputs para gerar a imagem. Isto pode demorar alguns minutos, vai depender do número de passos e do desempenho do teu computador.
 
 \--- /task ---
 
 \--- task ---
 
-Check the output.
+Verifica a saída.
 
-Once the process is complete, your generated image will be saved in the current directory with the specified file name.
+Assim que o processo estiver concluído, as tuas imagens geradas serão guardadas no diretório atual com o nome do ficheiro especificado.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
+![Um gatinho laranja e branco com olhos grandes e expressivos, com um nariz cor-de-rosa, e está sentado numa superfície de madeira. O gatinho tem um laço cor-de-rosa à volta do pescoço. No fundo, estão ramos de alfazema e um ramo de alfazema envolto em serapilheira, sobre um fundo rosa suave.](images/cat.jpg)
 
 \--- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved.
+Ao seguir estes passos, podes facilmente gerar imagens usando o script. O prompt define o que a imagem irá representar, o número de passos influencia a qualidade e o nome determina como o ficheiro será chamado quando for guardado.
 
-Enjoy creating your images!
+Diverte-te a criar as tuas imagens!
