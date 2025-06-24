@@ -15,7 +15,7 @@ Introduz o seguinte comando no terminal e pressiona <kbd>Enter</kbd> para execut
 Vai ser-te pedido para escreveres um prompt. Esta é uma descrição da imagem que pretendes gerar. O prompt guia o processo de gerar as imagens ao descrever a cena ou o objeto pretendido. Se quiseres saber mais sobre como escrever uma prompt num gerador de imagens de IA, [dê uma vista de olhos ao projeto aqui](https://projects.raspberrypi.org/pt-PT/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
-Escreve o prompt: Um gato
+Enter the prompt: Um gato
 ```
 
 Pressiona <kbd>Enter</kbd>.
@@ -27,7 +27,7 @@ Pressiona <kbd>Enter</kbd>.
 Em seguida, introduz o número de passos. Isto afeta a qualidade da imagem. Mais passos, geralmente, resulta numa qualidade maior nas imagens, uma vez que o modelo tem mais oportunidades de refinar o resultado. Demora cerca de 1 minuto por passo no teu Raspberry Pi 5 com 4GB de RAM.
 
 ```bash
-Introduz o número de passos: 5
+Enter the number of steps: 5
 ```
 
 Pressiona <kbd>Enter</kbd>.
@@ -39,7 +39,7 @@ Pressiona <kbd>Enter</kbd>.
 Introduz o nome do ficheiro de imagem. Este é o nome que a imagem gerada terá quando for guardada.
 
 ```bash
-Introduz o nome do ficheiro de imagem de saída: gato.png
+Enter the output image file name: gato.png
 ```
 
 Pressiona <kbd>Enter</kbd>.
