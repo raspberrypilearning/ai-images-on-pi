@@ -1,4 +1,4 @@
 ## O que se segue?
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+Existem muitos outros projetos de machine learning e IA no kit de ferramentas de [inteligência artificial](https://projects.raspberrypi.org/pt-PT/pathways/ai-toolkit).
 
