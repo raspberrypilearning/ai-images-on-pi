@@ -1,0 +1,19 @@
+---
+title: Executa um gerador de imagens de IA no teu Raspberry Pi
+hero_image: images/banner.png
+description: Instala e executa o modelo de gerador de imagens com IA chamado Stable Diffusion no teu computador Raspberry Pi!
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Vais fazer
+  - title: Instala o modelo no teu Raspberry Pi
+    completion:
+    - engaged
+  - title: Executa o script
+    completion:
+    - internal
+  - title: O que se segue?
+    completion:
+    - external
