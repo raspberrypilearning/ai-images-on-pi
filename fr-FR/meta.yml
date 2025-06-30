@@ -14,6 +14,5 @@ steps:
   - title: Exécuter le script
     completion:
       - internal
-  - title: Que peux-tu faire maintenant ?
     completion:
       - external

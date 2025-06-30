@@ -14,6 +14,5 @@ steps:
   - title: Executa o script
     completion:
     - internal
-  - title: O que se segue?
     completion:
     - external
