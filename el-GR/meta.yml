@@ -15,8 +15,4 @@ steps:
   - 
     title: Εκτέλεσε το script
     completion:
-      - internal
-  - 
-    title: Τι μπορείς να κάνεις τώρα;
-    completion:
       - external
