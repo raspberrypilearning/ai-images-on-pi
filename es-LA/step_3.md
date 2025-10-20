@@ -1,8 +1,8 @@
-## Run the script
+## Ejecuta el script
 
 \--- task ---
 
-Type the following command into the terminal and press <kbd>Enter</kbd> to run the script:
+Escribe el siguiente comando en la terminal y aprete <kbd>Enter</kbd> para ejecutar el script:
 
 ```bash
 ./run_sd.sh
@@ -12,58 +12,58 @@ Type the following command into the terminal and press <kbd>Enter</kbd> to run t
 
 \--- task ---
 
-You will be asked to enter a prompt. This is a description of the image you want to generate. The prompt guides the image generation process by describing the desired scene or object. If you want to know more about prompting an AI image generator, [have a look at the project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
+Se te pedirá que escribas un mensaje. Esta es la descripción de la imagen que quieres generar. El mensaje guía el proceso de generación de imagen al describir la escena u objeto deseado. Si quieres saber más sobre cómo activar un generador de imágenes de IA, [echa un vistazo al proyecto aquí](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
-Enter the prompt: A cat
+Escribe el mensaje: Un gato
 ```
 
-Press <kbd>Enter</kbd>.
+Aprete <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
+A continuación, escribe el número de pasos. Esto afectará la calidad de la imagen. Más pasos generalmente dan como resultado imágenes de mejor calidad ya que el modelo tiene más oportunidades de refinar la salida. Cada paso tarda alrededor de 1 minuto en una Raspberry Pi 5 con 4GB de RAM.
 
 ```bash
-Enter the number of steps: 5
+Escribe el número de pasos: 5
 ```
 
-Press <kbd>Enter</kbd>.
+Aprete <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Enter the name of the image file. This is the name your generated image will be saved as.
+Introduzca el nombre el archivo de imagen. Este es el nombre con el que se guardará tu imagen generada.
 
 ```bash
-Enter the output image file name: cat.png
+Escribe el nombre del archivo de la imagen resultante: cat.png
 ```
 
-Press <kbd>Enter</kbd>.
+Aprete <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Wait for the image to be generated.
+Espera a que se genere la imagen.
 
-The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
+Ahora el script se ejecutará con lo que has introducido para generar la imagen. Esto puede tardar unos minutos dependiendo de la cantidad de pasos y del rendimiento de tu computadora.
 
 \--- /task ---
 
 \--- task ---
 
-Check the output.
+Verifica la salida.
 
-Once the process is complete, your generated image will be saved in the current directory with the specified file name.
+Una vez terminado el proceso, tu imagen generada se guardará en el directorio actual con el nombre de archivo especificado.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
+![Un gatito naranja y blanco con ojos grandes y expresivos y nariz rosada está sentado en una superficie de madera. El gatito tiene un lazo rosa alrededor del cuello. En el fondo, hay ramas de lavanda y un ramo de flores de lavanda envuelto en arpillera, sobre un fondo rosa suave.](images/cat.jpg)
 
 \--- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved.
+Siguiendo estos pasos, puedes generar imágenes fácilmente usando el script. El mensaje define lo que representará la imagen, la cantidad de pasos influye en su calidad y el nombre determina cómo se llamará el archivo cuando se guarde.
 
-Enjoy creating your images!
+¡Disfruta creando tus imágenes!
