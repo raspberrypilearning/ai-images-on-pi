@@ -1,6 +1,6 @@
 1
 00:00:02,720 --> 00:00:05,355
-Install with a single command.
+Instale com um único comando.
 
 2
 00:00:06,000 --> 00:00:09,709
@@ -8,9 +8,9 @@ Install with a single command.
 
 3
 00:00:19,462 --> 00:00:22,129
-Run stable diffusion with this command.
+Execute a difusão estável com este comando.
 
 4
 00:00:22,635 --> 00:00:24,366
-Now you're ready to prompt.
+Agora você está pronto para fazer o prompt.
 
