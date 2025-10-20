@@ -1,8 +1,8 @@
-## Run the script
+## Execute o script
 
 \--- task ---
 
-Type the following command into the terminal and press <kbd>Enter</kbd> to run the script:
+Digite o seguinte comando no terminal e pressione <kbd>Enter</kbd> para executar o script:
 
 ```bash
 ./run_sd.sh
@@ -12,58 +12,58 @@ Type the following command into the terminal and press <kbd>Enter</kbd> to run t
 
 \--- task ---
 
-You will be asked to enter a prompt. This is a description of the image you want to generate. The prompt guides the image generation process by describing the desired scene or object. If you want to know more about prompting an AI image generator, [have a look at the project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
+Você será solicitado a digitar um prompt. Esta é uma descrição da imagem que você deseja gerar. O prompt orienta o processo de geração de imagem descrevendo a cena ou objeto desejado. Se você quiser saber mais sobre como criar prompts para um gerador de imagens de IA, [dê uma olhada no projeto aqui](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
-Enter the prompt: A cat
+Digite o prompt: Um gato
 ```
 
-Press <kbd>Enter</kbd>.
+Pressione <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Next, enter the number of steps. This affects the quality of the image. More steps generally result in higher quality images as the model has more opportunities to refine the output. It takes around 1 minute per step on a Raspberry Pi 5 with 4GB RAM.
+Em seguida, digite o número de etapas. Isto afeta a qualidade da imagem. Mais etapas geralmente resultam em imagens de maior qualidade, pois o modelo tem mais oportunidades de refinar a saída. Leva cerca de 1 minuto por etapa em um Raspberry Pi 5 com 4 GB de RAM.
 
 ```bash
-Enter the number of steps: 5
+Digite o número de etapas: 5
 ```
 
-Press <kbd>Enter</kbd>.
+Pressione <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Enter the name of the image file. This is the name your generated image will be saved as.
+Digite o nome do arquivo de imagem. Este é o nome com o qual a imagem gerada será salva.
 
 ```bash
-Enter the output image file name: cat.png
+Digite o nome do arquivo de imagem de saída: cat.png
 ```
 
-Press <kbd>Enter</kbd>.
+Pressione <kbd>Enter</kbd>.
 
 \--- /task ---
 
 \--- task ---
 
-Wait for the image to be generated.
+Aguarde a geração da imagem.
 
-The script will now run with your inputs to generate the image. This may take a few minutes depending on the number of steps and your computer’s performance.
+O script agora será executado com suas entradas para gerar a imagem. Isso pode levar alguns minutos, dependendo do número de etapas e do desempenho do seu computador.
 
 \--- /task ---
 
 \--- task ---
 
-Check the output.
+Verifique a saída.
 
-Once the process is complete, your generated image will be saved in the current directory with the specified file name.
+Quando o processo estiver concluído, a imagem gerada será salva no diretório atual com o nome de arquivo especificado.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop.](images/cat.jpg)
+![Um gatinho laranja e branco com olhos grandes e expressivos e com um nariz rosa está sentado numa superfície de madeira. O gatinho tem um laço rosa no pescoço. Ao fundo, há raminhos de lavanda e um maço de flores de lavanda embrulhado em estopa, contra um fundo rosa suave.](images/cat.jpg)
 
 \--- /task ---
 
-By following these steps, you can easily generate images using the script. The prompt defines what the image will depict, the number of steps influences its quality, and the name determines what the file will be called when saved.
+Seguindo estes passos, você pode facilmente gerar imagens usando o script. O prompt define o que a imagem representará, o número de etapas influencia sua qualidade e o nome determina como o arquivo será chamado quando salvo.
 
-Enjoy creating your images!
+Divirta-se criando suas imagens!
