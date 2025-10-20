@@ -1,46 +1,46 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Este recurso de apredinzaje no se recomiendo para estudiantes menores de 13 años. Recomendamos a los usuarios que interactúen con este material de forma responsable y que busquen la ayuda de un adulto de confianza cuando sea necesario.
 </p>
 
 ## Lo que harás
 
-![The image shows a close-up of a fluffy orange and white kitten with large, expressive eyes and a pink nose. The kitten is resting on a wooden surface with its paws tucked underneath, wearing a pink bow around its neck. Behind the kitten, there are sprigs of lavender in a rustic, burlap-wrapped bundle, adding a soft, natural background to the scene. The lighting is warm, enhancing the kitten's soft fur and creating a cozy, serene atmosphere.](images/cat.jpg)
+![La imagen muestra un primer plano de un suave gatito naranja y blanco con ojos grandes y expresivos y una nariz rosada. El gatito descansa sobre una superficie de madera con sus patas metidas debajo suyo y lleva un moño rosa en su cuello. Detrás del gatito hay ramas de lavanda envueltas en tela de arpillera rústica, agregando un fondo suave y natural y escena. La iluminación es cálida, realzando el suave pelaje del gatito y creando una atmósfera acogedora y serena.](images/cat.jpg)
 
 ## --- collapse ---
 
 ## title: ¿No tienes YouTube? ¡Descarga los vídeos!
 
-You can download all the resources for this project [by clicking here](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
+Puedes descargar todos los recursos para este proyecto [haciendo clic aquí](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
 
 \--- /collapse ---
 
-Welcome to the exciting world of AI image generation!
+¡Bienvenido al emocionante mundo de la generación de imágenes de IA!
 
-By following these steps, you will install a Stable Diffusion XL image generation model locally on your Raspberry Pi. This will let you create amazing images of anything you can imagine!
+Al seguir estos pasos, instalarás un modelo de generación de imágenes Stable Diffusion XL localmente en tu Raspberry Pi. ¡Esto te permitirá crear imágenes increíbles de todo lo que puedas imaginar!
 
 ## --- collapse ---
 
-## title: You will need
+## title: Lo que necesitarás
 
-- A Raspberry Pi 4 or 5 with a micro SD card with **at least** 32GB storage
-- Access to an internet connection for the Raspberry Pi
+- Una Raspberry Pi 4 o 5 con una tarjeta micro SD con **al menos** 32GB de almacenamiento
+- Acceso a una conexión a internet para la Raspberry Pi
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## title:¿Por qué recomendamos que este recurso sea utilizado por estudiantes mayores?
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+Es importante comprender cómo puedes mantener segura tu información personal. La Raspberry Pi Foundation es muy cuidadosa protegiendo tus datos y tu privacidad, por lo que solo recomendamos este proyecto si tienes más de 13 años.
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+Quizás hayas notado que muchos servicios en línea piden que los usuarios tengan al menos 13 años. Esto se debe a que gestionan y almacenan los datos que proporcionas, los cuales pueden incluir información personal. A pesar de que estos servicios siguen normas estrictas para proteger tus datos, enviar información por internet a veces puede ser poco seguro.
 
-When you use generative AI tools on a Raspberry Pi, all of the work happens right on your device. **Your personal data stays on your computer and never leaves it.** This keeps your information safe and secure and lets you explore and learn about AI safely.
+Cuando usas herramientas de IA generativa en una Raspberry Pi, todo el trabajo se hace directamente en tu dispositivo. **Tus datos personales permanecen en tu propio ordenador y no se comparten con nadie.** Así tu información se mantiene segura y protegida, y te permite explorar y aprender sobre IA de forma segura.
 
-But it's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+Pero también es importante saber que la IA generativa a veces puede crear **contenido que no es preciso, justo o apropiado**. Estos modelos de IA a veces pueden "alucinar" y **producir información que parece verdadera pero no lo es**. Por lo tanto, es importante **pensar detenidamente en el resultado de la aplicación de IA y verificarlo dos veces**. A medida que trabajes con IA generative, asegúrate de verificar la información y consultar fuentes confiables si no estás seguro.
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**Siempre mira el contenido generado por IA con una mente atenta y reflexiva.** Si necesitas ayuda, pídele orientación a un padre, tutor o maestro.
 
-Enjoy learning and creating with generative AI!
+¡Disfruta aprendiendo y creando con IA generativa!
 
 \--- /collapse ---
