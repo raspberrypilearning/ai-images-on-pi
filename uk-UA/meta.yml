@@ -15,8 +15,4 @@ steps:
   - 
     title: Запусти скрипт
     completion:
-      - internal
-  - 
-    title: Що ти тепер вмієш?
-    completion:
       - external
