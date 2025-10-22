@@ -10,7 +10,7 @@ Este recurso de aprendizagem não é recomendado para alunos com menos de 13 ano
 
 ## title: Não tens Youtube? Descarrega estes vídeos!
 
-Podes descarregar todos os recursos para este projeto[ao clicar aqui](https://rpf.io/p/en/ai-images-on-pi-go){:target="_blank"}.
+Podes descarregar todos os recursos para este projeto [ao clicar aqui](https://rpf.io/p/pt-PT/ai-images-on-pi-go){:target="_blank"}.
 
 \--- /collapse ---
 
