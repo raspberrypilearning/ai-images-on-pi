@@ -12,10 +12,10 @@ Introduz o seguinte comando no terminal e pressiona <kbd>Enter</kbd> para execut
 
 \--- task ---
 
-Vai ser-te pedido para escreveres um prompt. Esta é uma descrição da imagem que pretendes gerar. O prompt guia o processo de gerar as imagens ao descrever a cena ou o objeto pretendido. Se quiseres saber mais sobre como escrever uma prompt num gerador de imagens de IA, [dê uma vista de olhos ao projeto aqui](https://projects.raspberrypi.org/en/projects/ai-image-prompt/){:target="_blank"}.
+Vai ser-te pedido para escreveres um prompt. Esta é uma descrição da imagem que pretendes gerar. O prompt guia o processo de gerar as imagens ao descrever a cena ou o objeto pretendido. Se quiseres saber mais sobre como escrever uma prompt num gerador de imagens de IA, [dê uma vista de olhos ao projeto aqui](https://projects.raspberrypi.org/pt-PT/projects/ai-image-prompt/){:target="_blank"}.
 
 ```bash
-Escreve o prompt: Um gato
+Enter the prompt: Um gato
 ```
 
 Pressiona <kbd>Enter</kbd>.
@@ -39,7 +39,7 @@ Pressiona <kbd>Enter</kbd>.
 Introduz o nome do ficheiro de imagem. Este é o nome que a imagem gerada terá quando for guardada.
 
 ```bash
-Introduz o nome do ficheiro de imagem de saída: gato.png
+Enter the output image file name: gato.png
 ```
 
 Pressiona <kbd>Enter</kbd>.
